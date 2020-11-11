@@ -1,0 +1,13 @@
+// Import Custom Variables
+@import "template/variables.scss";
+
+@import "bootstrap.scss";
+
+// Import Custom SCSS
+@import "template/mixins.scss";
+@import "template/global.scss";
+@import "template/utilities.scss";
+@import "template/navbar.scss";
+@import "template/cards.scss";
+@import "template/login.scss";
+@import "template/footer.scss";
